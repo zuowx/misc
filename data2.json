@@ -1,6 +1,6 @@
 {
   "data": {
-    "next_page_url": "1",
+    "next_page_url": "https://raw.githubusercontent.com/zuowx/misc/refs/heads/main/data3.json",
     "items": [ {
         "item": {
           "t1": "2024-10-11T11:00:10Z",
@@ -9,7 +9,7 @@
           "category": "category1",
           "external_links": [
             {
-              "href": "ext1"
+              "href": "https://raw.githubusercontent.com/zuowx/misc/refs/heads/main/item1.txt"
             }
           ]
         }
@@ -22,7 +22,7 @@
           "category": "category2",
           "external_links": [
             {
-              "href": ""
+              "href": "https://raw.githubusercontent.com/zuowx/misc/refs/heads/main/item2.txt"
             }
           ]
         }
