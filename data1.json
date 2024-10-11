@@ -1,0 +1,53 @@
+{
+  "data": {
+    "next_page_url": "1",
+    "items": [ {
+        "item": {
+          "t1": "2024-10-11T11:00:10Z",
+          "t2": "2024-10-11T11:50:11Z",
+          "title": "title1",
+          "category": "category1",
+          "external_links": [
+            {
+              "href": "ext1"
+            }
+          ]
+        }
+      },
+      {
+        "item": {
+          "t1": "2024-10-11T11:00:10Z",
+          "t2": "2024-10-11T11:50:11Z",
+          "title": "title2",
+          "category": "category2",
+          "external_links": [
+            {
+              "href": ""
+            }
+          ]
+        }
+      },
+      {
+        "item": {
+          "t1": "2024-10-11T11:00:10Z",
+          "t2": "2024-10-11T11:50:11Z",
+          "title": "title3",
+          "category": "category3",
+          "external_links": [
+            {
+              "href": "ext3"
+            }
+          ]
+        }
+      },
+      {
+        "item": {
+          "t1": "2024-10-11T11:00:10Z",
+          "t2": "2024-10-11T11:50:11Z",
+          "title": "title4",
+          "category": "category4"
+        }
+      }
+    ]
+  }
+}
